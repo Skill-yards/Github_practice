@@ -17,7 +17,7 @@ Follow the steps below to complete the exercise.
 ### 1. Clone the Repository
 First, clone this repository to your local machine using the command:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+https://github.com/amitvsk/Html_practice.git
 ```
 
 ### 2. Create a New Branch
